@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about technology, software development, and creating innovative solutions. Here's a little about me:
 
 ## 🚀 About Me
-- 🎓 **Education:** BCA First-Year Student, Diploma in Computer Engineering
+- 🎓 **Education:**  Final year, Diploma in Computer Engineering Student
 - 💡 **Interests:** Full-stack Development, AI & Machine Learning, Mobile & Web Apps
 - 🌱 **Currently Learning:** React.js, Python, AI/ML
 - 💼 **Experience:** 
