@@ -51,20 +51,8 @@ I'm a passionate developer from **Nashik, Maharashtra** with a deep interest in 
 
 <div align="center">
 
-### Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YUVRAJ007137&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-### Contribution Streak
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=YUVRAJ007137&theme=radical&hide_border=false)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YUVRAJ007137&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YUVRAJ007137&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Top Contributions
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=YUVRAJ007137&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
